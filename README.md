@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nalin1212/DSA/tree/master/0242-valid-anagram) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nalin1212/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nalin1212/DSA/tree/master/0007-reverse-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nalin1212/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nalin1212/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nalin1212/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nalin1212/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nalin1212/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nalin1212/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nalin1212/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
