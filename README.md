@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nalin1212/DSA/tree/master/0242-valid-anagram) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nalin1212/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nalin1212/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/nalin1212/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nalin1212/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nalin1212/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nalin1212/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nalin1212/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nalin1212/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nalin1212/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nalin1212/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
