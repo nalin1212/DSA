@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/nalin1212/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nalin1212/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/nalin1212/DSA/tree/master/1929-concatenation-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nalin1212/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nalin1212/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nalin1212/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nalin1212/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nalin1212/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nalin1212/DSA/tree/master/0242-valid-anagram) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nalin1212/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nalin1212/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nalin1212/DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nalin1212/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nalin1212/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
