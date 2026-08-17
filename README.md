@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nalin1212/DSA/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/nalin1212/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/nalin1212/DSA/tree/master/1563-stone-game-v) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nalin1212/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/nalin1212/DSA/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/nalin1212/DSA/tree/master/2029-stone-game-ix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nalin1212/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nalin1212/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nalin1212/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nalin1212/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nalin1212/DSA/tree/master/0007-reverse-integer) |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nalin1212/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nalin1212/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nalin1212/DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nalin1212/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nalin1212/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nalin1212/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nalin1212/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nalin1212/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
