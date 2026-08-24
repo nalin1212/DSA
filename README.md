@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/nalin1212/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/nalin1212/DSA/tree/master/1563-stone-game-v) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nalin1212/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/nalin1212/DSA/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/nalin1212/DSA/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/nalin1212/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nalin1212/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/nalin1212/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nalin1212/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/nalin1212/DSA/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nalin1212/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nalin1212/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/nalin1212/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nalin1212/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nalin1212/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nalin1212/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/nalin1212/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/nalin1212/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nalin1212/DSA/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nalin1212/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nalin1212/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/nalin1212/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/nalin1212/DSA/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -162,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nalin1212/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nalin1212/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/nalin1212/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/nalin1212/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nalin1212/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -169,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nalin1212/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/nalin1212/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/nalin1212/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
