@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/nalin1212/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/nalin1212/DSA/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/nalin1212/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nalin1212/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nalin1212/DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/nalin1212/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nalin1212/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nalin1212/DSA/tree/master/1510-stone-game-iv) |
