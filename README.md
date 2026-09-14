@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nalin1212/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nalin1212/DSA/tree/master/0009-palindrome-number) |
+| [0836-rectangle-overlap](https://github.com/nalin1212/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/nalin1212/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nalin1212/DSA/tree/master/1563-stone-game-v) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/nalin1212/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/nalin1212/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
