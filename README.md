@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nalin1212/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/nalin1212/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nalin1212/DSA/tree/master/0238-product-of-array-except-self) |
+| [0729-my-calendar-i](https://github.com/nalin1212/DSA/tree/master/0729-my-calendar-i) |
 | [0835-image-overlap](https://github.com/nalin1212/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/nalin1212/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/nalin1212/DSA/tree/master/0729-my-calendar-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nalin1212/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nalin1212/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nalin1212/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -270,11 +272,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/nalin1212/DSA/tree/master/0729-my-calendar-i) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nalin1212/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/nalin1212/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/nalin1212/DSA/tree/master/0729-my-calendar-i) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nalin1212/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Counting
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nalin1212/DSA/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/nalin1212/DSA/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
