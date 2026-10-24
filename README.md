@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nalin1212/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nalin1212/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nalin1212/DSA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/nalin1212/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nalin1212/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nalin1212/DSA/tree/master/0238-product-of-array-except-self) |
 | [0729-my-calendar-i](https://github.com/nalin1212/DSA/tree/master/0729-my-calendar-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nalin1212/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nalin1212/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/nalin1212/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/nalin1212/DSA/tree/master/0344-reverse-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nalin1212/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nalin1212/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nalin1212/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nalin1212/DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/nalin1212/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/nalin1212/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/nalin1212/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
