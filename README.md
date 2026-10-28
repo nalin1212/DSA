@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nalin1212/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nalin1212/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nalin1212/DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/nalin1212/DSA/tree/master/0485-max-consecutive-ones) |
 | [0729-my-calendar-i](https://github.com/nalin1212/DSA/tree/master/0729-my-calendar-i) |
 | [0835-image-overlap](https://github.com/nalin1212/DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/nalin1212/DSA/tree/master/1140-stone-game-ii) |
